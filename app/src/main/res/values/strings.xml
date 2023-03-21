@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyDevise</string>
+    <string name="ok">ok</string>
+    <string name="cancel">取消</string>
+    <string name="menu_write">菜单</string>
+    <string name="error">error</string>
+</resources>
